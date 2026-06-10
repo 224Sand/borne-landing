@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://224sand.github.io/borne-landing/sitemap.xml
